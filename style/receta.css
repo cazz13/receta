@@ -1,0 +1,25 @@
+/********* hoja de estilo de la receta de cocina*******/
+@font-face {
+    font-family: receta1;
+    src: url(../fonts/Oswald-VariableFont_wght.ttf);
+}
+body {background-image: url(../images/istockphoto-1143099981-612x612.jpg);}
+
+#container {width: 80%;
+            background-color: rgba(255, 255, 255, 0.672);
+            margin: auto;
+            padding: 20px;
+            font-family: receta1;
+            
+}
+#container h1 {text-align: center;
+                
+
+
+}
+
+#container dl dt {font-weight: bold;}
+#container h2 {background-color:#71A5A1 ;}
+#container iframe {display: block;
+                    margin: auto;
+}
